@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peanut086&show_icons=true&theme=radical)
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact)](https://github.com/Peanut086/github-readme-stats)
-
+### Wakatime
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peanut086)](https://github.com/Peanut086/github-readme-stats)

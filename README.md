@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact)](https://github.com/Peanut086/github-readme-stats)
 ### Wakatime
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peanut086)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peanut086)](https://github.com/Peanut086/github-readme-stats)

@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <div style="display:flex; display: flex;justify-content: center;align-items: center;">
 ### GitHub Info
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peanut086&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peanut086&show_icons=true&theme=radical)
 
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact)](https://github.com/Peanut086/github-readme-stats)

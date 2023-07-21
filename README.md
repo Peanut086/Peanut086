@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact)](https://github.com/Peanut086/github-readme-stats)
 ### Wakatime
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peanut086)](https://github.com/Peanut086/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact">

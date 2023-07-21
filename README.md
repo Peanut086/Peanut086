@@ -11,6 +11,3 @@ Here are some ideas to get you started:
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact)](https://github.com/Peanut086/github-readme-stats)
 
-<div style="display:flex; display: flex;justify-content: center;align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peanut086&layout=compact)](https://github.com/Peanut086/github-readme-stats">
-</div>

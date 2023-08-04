@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 ### Wakatime
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Peanut086)](https://github.com/Peanut086/github-readme-stats)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
